@@ -1,0 +1,14 @@
+{
+  "name": "trillo-sass",
+  "version": "1.0.0",
+  "description": "trillo project we use sass css pre-processor",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
+  },
+  "author": "Ariful Islam",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+}
